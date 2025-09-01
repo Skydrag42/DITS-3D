@@ -1,0 +1,6 @@
+[submodule "DITS-3D-user-side"]
+	path = DITS-3D-user-side
+	url = git@github.com:Skydrag42/DITS-3D-user-side.git
+[submodule "DITS-3D-robot-side"]
+	path = DITS-3D-robot-side
+	url = git@github.com:Skydrag42/DITS-3D-robot-side.git
