@@ -2,8 +2,6 @@
 
 **Digital Twin Streaming 3D**: An immersive robotic teleoperation system enabling control of a humanoid robot ([Poppy](https://www.poppy-project.org/fr/)) via a VR headset (Meta Quest 3), with real-time volumetric visual feedback.
 
-![Setup photo](matos.jpg)
-
 ## Project Objectives
 
 This project aims to improve environmental perception during robot teleoperation by leveraging:
@@ -68,7 +66,7 @@ Check the `Releases` section of each submodule for pre-compiled binaries and det
 
 ## Authors
 
-Project completed by **J. Charvet** and **R. Debache** during a 3-month internship (2025) at ENSEIRB-MATMECA, supervised by Y. Berthoumieu (IMS laboratory, MOTIVE team).
+Project completed by **J. Charvet** and **R. Debache** during a 3-month internship (2025) at ENSEIRB-MATMECA.
 
 ## Complete Documentation
 
