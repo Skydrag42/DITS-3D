@@ -40,9 +40,12 @@ The user can visualize the robot's environment as a dynamic 3D point cloud, move
 ## Visual Results
 
 
-<p align="center">
-  <img src="video_robot.gif" width="45%" alt="Robot view" /> <img src="video_user_1.gif" width="45%" alt="VR user view" />
-</p>
+<table>
+  <tr>
+    <td><img src="video_robot.gif" alt="Robot view" width="100%"/></td>
+    <td><img src="video_user_1.gif" alt="VR user view" width="100%"/></td>
+  </tr>
+</table>
 *Left: robot's real environment | Right: VR visualization in headset*
 
 ## Quick Start
