@@ -37,6 +37,8 @@ The user can visualize the robot's environment as a dynamic 3D point cloud, move
 | **Network bitrate** | 20-32 Mbps (vs 1.1 Gbps uncompressed) |
 | **Quality** | PSNR 38-44 dB on depth stream |
 
+<table><tr><td><img src="Left.png"></td><td><img src="Right.png"></td></tr></table>
+
 ## Visual Results
 
 
