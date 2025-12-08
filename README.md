@@ -69,7 +69,7 @@ Project completed by **J. Charvet** and **R. Debache** during a 3-month internsh
 
 ## Complete Documentation
 
-- [Full internship report](./Soutenance_stage_2A.pdf) (detailed technical analysis in french :)
+- [Full internship report of R.Debache](./Soutenance_stage_2A.pdf) 
 - Developer guide can be found in each submodule README.md
 
 ## Perspective
